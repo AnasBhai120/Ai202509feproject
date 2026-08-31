@@ -1,6 +1,0 @@
-{
-  "name": "PulseFit - MERN Fitness Mobile App & Admin Panel",
-  "description": "Modern MERN stack fitness application featuring a mobile-first user experience, workout tracking with timers, nutrition logger, fitness calculators, progress analytics, and a full-featured admin management dashboard.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
